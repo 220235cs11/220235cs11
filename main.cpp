@@ -10,9 +10,13 @@ using namespace std;
 
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    cout << "Hello, World!\n";
-    cout<<"Abdulbosit\n";
-    cout<<4*6<<endl;
+int x=0;
+    int y=0;
+    
+    cin>>x;
+    cout<<"+"<<endl;
+    cin>>y;
+    cout<<"="<<endl;
+    cout<<x+y<<endl;
     return 0;
 }
